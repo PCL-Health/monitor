@@ -4,18 +4,20 @@
     "url": "https://pcl-health.com",
     "icon": "https://favicons.githubusercontent.com/pcl-health.com",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1524,
-    "timeDay": 1503,
-    "timeWeek": 1524,
+    "timeDay": 1719,
+    "timeWeek": 1503,
     "timeMonth": 1524,
     "timeYear": 1524,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-19": 0
+    }
   },
   {
     "name": "App",
@@ -29,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 590,
-    "timeDay": 632,
-    "timeWeek": 590,
+    "timeDay": 850,
+    "timeWeek": 632,
     "timeMonth": 590,
     "timeYear": 590,
     "dailyMinutesDown": {}
@@ -47,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 455,
-    "timeDay": 505,
-    "timeWeek": 455,
+    "timeDay": 618,
+    "timeWeek": 505,
     "timeMonth": 455,
     "timeYear": 455,
     "dailyMinutesDown": {}
