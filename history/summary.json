@@ -4,19 +4,19 @@
     "url": "https://pcl-health.com",
     "icon": "https://favicons.githubusercontent.com/pcl-health.com",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1644,
-    "timeDay": 1885,
-    "timeWeek": 1694,
-    "timeMonth": 1644,
-    "timeYear": 1644,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1608,
+    "timeDay": 1721,
+    "timeWeek": 1634,
+    "timeMonth": 1608,
+    "timeYear": 1608,
     "dailyMinutesDown": {
-      "2022-01-20": 0
+      "2022-01-20": 19
     }
   },
   {
