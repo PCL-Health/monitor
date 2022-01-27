@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/pcl-health.com",
     "slug": "website",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1487,
-    "timeDay": 1675,
-    "timeWeek": 1470,
-    "timeMonth": 1487,
-    "timeYear": 1487,
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1488,
+    "timeDay": 1506,
+    "timeWeek": 1371,
+    "timeMonth": 1488,
+    "timeYear": 1488,
     "dailyMinutesDown": {
       "2022-01-20": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 573,
-    "timeDay": 727,
-    "timeWeek": 564,
-    "timeMonth": 573,
-    "timeYear": 573,
+    "time": 578,
+    "timeDay": 629,
+    "timeWeek": 581,
+    "timeMonth": 578,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 529,
-    "timeDay": 655,
-    "timeWeek": 572,
-    "timeMonth": 529,
-    "timeYear": 529,
+    "time": 518,
+    "timeDay": 393,
+    "timeWeek": 437,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {}
   }
 ]
