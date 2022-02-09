@@ -4,7 +4,7 @@
     "url": "https://pcl-health.com",
     "icon": "https://favicons.githubusercontent.com/pcl-health.com",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
+      "2022-02-09": 0,
       "2022-01-20": 19
     }
   },
