@@ -4,7 +4,7 @@
     "url": "https://pcl-health.com",
     "icon": "https://icons.duckduckgo.com/ip3/pcl-health.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1631,
     "timeYear": 1577,
     "dailyMinutesDown": {
+      "2022-11-01": 0,
       "2022-08-25": 20,
       "2022-07-20": 647,
       "2022-07-19": 433,
