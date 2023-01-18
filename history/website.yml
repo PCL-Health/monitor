@@ -1,7 +1,7 @@
 url: https://pcl-health.com
-status: down
-code: 502
-responseTime: 1517
-lastUpdated: 2023-01-18T04:44:52.037Z
+status: up
+code: 200
+responseTime: 1300
+lastUpdated: 2023-01-18T04:50:20.937Z
 startTime: Wed Jan 12 2022 11:46:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
