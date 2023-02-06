@@ -29,19 +29,19 @@
     "url": "https://app.pcl-health.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.pcl-health.com.ico",
     "slug": "app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 590,
-    "timeDay": 650,
-    "timeWeek": 625,
-    "timeMonth": 607,
+    "timeDay": 584,
+    "timeWeek": 612,
+    "timeMonth": 604,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2023-02-06": 0
+      "2023-02-06": 14
     }
   },
   {
