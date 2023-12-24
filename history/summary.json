@@ -24,9 +24,9 @@
     "slug": "app",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 589,
     "timeDay": 534,
@@ -34,7 +34,7 @@
     "timeMonth": 549,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2023-12-24": 0
+      "2023-12-24": 4
     }
   },
   {
@@ -44,9 +44,9 @@
     "slug": "api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 530,
     "timeDay": 470,
@@ -54,7 +54,7 @@
     "timeMonth": 512,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2023-12-24": 0
+      "2023-12-24": 4
     }
   }
 ]
