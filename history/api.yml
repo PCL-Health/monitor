@@ -1,7 +1,7 @@
 url: https://api-pclhealth-prod.azurewebsites.net/swagger/index.html
-status: up
-code: 200
-responseTime: 798
-lastUpdated: 2024-09-23T23:14:54.581Z
+status: down
+code: 403
+responseTime: 633
+lastUpdated: 2024-09-24T10:47:54.098Z
 startTime: 2022-01-12T11:47:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
