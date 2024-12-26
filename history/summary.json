@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "99.49%",
     "time": 1492,
-    "timeDay": 1244,
-    "timeWeek": 1333,
-    "timeMonth": 1343,
-    "timeYear": 1463,
+    "timeDay": 1235,
+    "timeWeek": 1323,
+    "timeMonth": 1339,
+    "timeYear": 1461,
     "dailyMinutesDown": {
-      "2024-12-25": 5,
       "2024-12-24": 18,
       "2024-12-01": 613,
       "2024-11-29": 17,
@@ -46,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.pcl-health.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "81.77%",
+    "uptime": "81.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.56%",
-    "uptimeYear": "46.66%",
-    "time": 553,
-    "timeDay": 507,
-    "timeWeek": 578,
-    "timeMonth": 539,
-    "timeYear": 548,
+    "uptimeYear": "46.70%",
+    "time": 552,
+    "timeDay": 517,
+    "timeWeek": 586,
+    "timeMonth": 540,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2024-12-01": 631,
       "2024-10-17": 1298,
@@ -251,8 +250,7 @@
       "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
-      "2023-12-28": 1440,
-      "2023-12-27": 1440
+      "2023-12-28": 1440
     }
   },
   {
@@ -265,12 +263,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.12%",
-    "uptimeYear": "41.52%",
-    "time": 489,
-    "timeDay": 440,
-    "timeWeek": 541,
-    "timeMonth": 580,
-    "timeYear": 473,
+    "uptimeYear": "41.56%",
+    "time": 491,
+    "timeDay": 1171,
+    "timeWeek": 654,
+    "timeMonth": 604,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2024-12-13": 824,
       "2024-10-23": 344,
@@ -485,8 +483,7 @@
       "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
-      "2023-12-28": 1440,
-      "2023-12-27": 1440
+      "2023-12-28": 1440
     }
   }
 ]
