@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.46%",
-    "time": 1464,
-    "timeDay": 1388,
-    "timeWeek": 1164,
+    "time": 1463,
+    "timeDay": 1208,
+    "timeWeek": 1156,
     "timeMonth": 1311,
-    "timeYear": 1437,
+    "timeYear": 1435,
     "dailyMinutesDown": {
-      "2025-01-23": 5,
       "2025-01-13": 80,
       "2025-01-10": 20,
       "2024-12-31": 15,
@@ -53,12 +52,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.52%",
-    "time": 548,
-    "timeDay": 418,
-    "timeWeek": 302,
-    "timeMonth": 493,
-    "timeYear": 544,
+    "uptimeYear": "54.64%",
+    "time": 547,
+    "timeDay": 77,
+    "timeWeek": 242,
+    "timeMonth": 481,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2024-12-01": 631,
       "2024-10-17": 1298,
@@ -225,8 +224,7 @@
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
-      "2024-01-26": 1440,
-      "2024-01-25": 1440
+      "2024-01-26": 1440
     }
   },
   {
@@ -235,16 +233,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-pclhealth-prod.azurewebsites.net.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "80.55%",
+    "uptime": "80.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.39%",
+    "uptimeYear": "49.51%",
     "time": 489,
-    "timeDay": 1396,
-    "timeWeek": 606,
+    "timeDay": 378,
+    "timeWeek": 599,
     "timeMonth": 570,
-    "timeYear": 483,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2024-12-13": 824,
       "2024-10-23": 344,
@@ -430,8 +428,7 @@
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
-      "2024-01-26": 1440,
-      "2024-01-25": 1440
+      "2024-01-26": 1440
     }
   }
 ]
