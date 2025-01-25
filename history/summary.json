@@ -8,12 +8,12 @@
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.46%",
-    "time": 1463,
-    "timeDay": 1208,
-    "timeWeek": 1156,
-    "timeMonth": 1311,
+    "time": 1462,
+    "timeDay": 1146,
+    "timeWeek": 1230,
+    "timeMonth": 1310,
     "timeYear": 1435,
     "dailyMinutesDown": {
       "2025-01-13": 80,
@@ -48,16 +48,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.pcl-health.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "82.25%",
+    "uptime": "82.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.64%",
-    "time": 547,
-    "timeDay": 77,
-    "timeWeek": 242,
-    "timeMonth": 481,
-    "timeYear": 543,
+    "uptimeYear": "54.92%",
+    "time": 545,
+    "timeDay": 74,
+    "timeWeek": 227,
+    "timeMonth": 467,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2024-12-01": 631,
       "2024-10-17": 1298,
@@ -223,8 +223,7 @@
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
-      "2024-01-27": 1440,
-      "2024-01-26": 1440
+      "2024-01-27": 1440
     }
   },
   {
@@ -233,16 +232,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-pclhealth-prod.azurewebsites.net.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "80.56%",
+    "uptime": "80.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.51%",
-    "time": 489,
-    "timeDay": 378,
-    "timeWeek": 599,
-    "timeMonth": 570,
-    "timeYear": 482,
+    "uptimeYear": "49.78%",
+    "time": 491,
+    "timeDay": 1375,
+    "timeWeek": 729,
+    "timeMonth": 600,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2024-12-13": 824,
       "2024-10-23": 344,
@@ -427,8 +426,7 @@
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
-      "2024-01-27": 1440,
-      "2024-01-26": 1440
+      "2024-01-27": 1440
     }
   }
 ]
