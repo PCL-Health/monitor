@@ -8,13 +8,13 @@
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.46%",
-    "time": 1480,
-    "timeDay": 2174,
-    "timeWeek": 1416,
-    "timeMonth": 1342,
-    "timeYear": 1433,
+    "time": 1481,
+    "timeDay": 2181,
+    "timeWeek": 1490,
+    "timeMonth": 1388,
+    "timeYear": 1434,
     "dailyMinutesDown": {
       "2025-01-13": 80,
       "2025-01-10": 20,
@@ -48,16 +48,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.pcl-health.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "82.36%",
+    "uptime": "82.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "56.56%",
-    "time": 540,
-    "timeDay": 84,
-    "timeWeek": 174,
-    "timeMonth": 398,
-    "timeYear": 535,
+    "uptimeYear": "56.83%",
+    "time": 539,
+    "timeDay": 103,
+    "timeWeek": 178,
+    "timeMonth": 387,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2024-12-01": 631,
       "2024-10-17": 1298,
@@ -216,8 +216,7 @@
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
-      "2024-02-03": 1440,
-      "2024-02-02": 1440
+      "2024-02-03": 1440
     }
   },
   {
@@ -226,14 +225,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-pclhealth-prod.azurewebsites.net.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "80.68%",
+    "uptime": "80.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.43%",
-    "time": 489,
-    "timeDay": 379,
-    "timeWeek": 608,
+    "uptimeYear": "51.70%",
+    "time": 488,
+    "timeDay": 388,
+    "timeWeek": 467,
     "timeMonth": 559,
     "timeYear": 485,
     "dailyMinutesDown": {
@@ -413,8 +412,7 @@
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
-      "2024-02-03": 1440,
-      "2024-02-02": 1440
+      "2024-02-03": 1440
     }
   }
 ]
