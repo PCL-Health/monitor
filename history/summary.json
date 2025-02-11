@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "96.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "96.75%",
     "uptimeYear": "99.21%",
-    "time": 1473,
-    "timeDay": 1542,
-    "timeWeek": 1630,
-    "timeMonth": 1407,
-    "timeYear": 1434,
+    "time": 1472,
+    "timeDay": 1466,
+    "timeWeek": 1565,
+    "timeMonth": 1350,
+    "timeYear": 1433,
     "dailyMinutesDown": {
-      "2025-02-10": 5,
       "2025-02-05": 20,
       "2025-02-02": 492,
       "2025-02-01": 830,
@@ -52,16 +51,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.pcl-health.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "82.53%",
+    "uptime": "82.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.52%",
-    "time": 532,
-    "timeDay": 158,
-    "timeWeek": 246,
-    "timeMonth": 286,
-    "timeYear": 526,
+    "uptimeYear": "59.57%",
+    "time": 531,
+    "timeDay": 175,
+    "timeWeek": 255,
+    "timeMonth": 275,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2024-12-01": 631,
       "2024-10-17": 1298,
@@ -210,8 +209,7 @@
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
-      "2024-02-13": 1440,
-      "2024-02-12": 1440
+      "2024-02-13": 1440
     }
   },
   {
@@ -224,12 +222,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.39%",
+    "uptimeYear": "54.44%",
     "time": 488,
-    "timeDay": 372,
-    "timeWeek": 624,
+    "timeDay": 464,
+    "timeWeek": 505,
     "timeMonth": 560,
-    "timeYear": 488,
+    "timeYear": 489,
     "dailyMinutesDown": {
       "2024-12-13": 824,
       "2024-10-23": 344,
@@ -397,8 +395,7 @@
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
-      "2024-02-13": 1440,
-      "2024-02-12": 1440
+      "2024-02-13": 1440
     }
   }
 ]
