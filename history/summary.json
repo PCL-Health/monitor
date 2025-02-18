@@ -6,14 +6,14 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "95.09%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "96.72%",
     "uptimeYear": "99.19%",
-    "time": 1469,
-    "timeDay": 1324,
-    "timeWeek": 1440,
-    "timeMonth": 1393,
+    "time": 1468,
+    "timeDay": 1565,
+    "timeWeek": 1447,
+    "timeMonth": 1416,
     "timeYear": 1431,
     "dailyMinutesDown": {
       "2025-02-16": 82,
@@ -43,8 +43,7 @@
       "2024-05-27": 45,
       "2024-05-26": 2,
       "2024-05-15": 19,
-      "2024-05-09": 23,
-      "2024-02-19": 19
+      "2024-05-09": 23
     }
   },
   {
@@ -53,15 +52,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.pcl-health.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "82.63%",
+    "uptime": "82.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.22%",
+    "uptimeYear": "61.49%",
     "time": 528,
-    "timeDay": 106,
-    "timeWeek": 219,
-    "timeMonth": 214,
+    "timeDay": 390,
+    "timeWeek": 250,
+    "timeMonth": 221,
     "timeYear": 520,
     "dailyMinutesDown": {
       "2024-12-01": 631,
@@ -204,8 +203,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   },
   {
@@ -214,18 +212,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-pclhealth-prod.azurewebsites.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "80.80%",
+    "uptime": "80.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.39%",
-    "uptimeMonth": "93.42%",
+    "uptimeWeek": "57.13%",
+    "uptimeMonth": "90.14%",
     "uptimeYear": "55.54%",
-    "time": 491,
-    "timeDay": 377,
-    "timeWeek": 615,
-    "timeMonth": 591,
+    "time": 492,
+    "timeDay": 621,
+    "timeWeek": 635,
+    "timeMonth": 596,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2025-02-17": 82,
+      "2025-02-18": 79,
+      "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1362,
       "2024-12-13": 824,
@@ -387,8 +386,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   }
 ]
