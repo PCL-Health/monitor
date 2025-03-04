@@ -11,9 +11,9 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.18%",
     "time": 1457,
-    "timeDay": 1269,
-    "timeWeek": 1332,
-    "timeMonth": 1446,
+    "timeDay": 1298,
+    "timeWeek": 1353,
+    "timeMonth": 1430,
     "timeYear": 1426,
     "dailyMinutesDown": {
       "2025-03-03": 18,
@@ -55,16 +55,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.pcl-health.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "82.85%",
+    "uptime": "82.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.55%",
-    "time": 519,
-    "timeDay": 402,
-    "timeWeek": 241,
-    "timeMonth": 258,
-    "timeYear": 511,
+    "uptimeYear": "65.60%",
+    "time": 517,
+    "timeDay": 280,
+    "timeWeek": 254,
+    "timeMonth": 264,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2024-12-01": 631,
       "2024-10-17": 1298,
@@ -192,8 +192,7 @@
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
-      "2024-03-05": 1440,
-      "2024-03-04": 1440
+      "2024-03-05": 1440
     }
   },
   {
@@ -202,18 +201,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-pclhealth-prod.azurewebsites.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "79.75%",
+    "uptime": "79.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.78%",
+    "uptimeMonth": "44.10%",
     "uptimeYear": "55.81%",
-    "time": 492,
-    "timeDay": 621,
-    "timeWeek": 477,
-    "timeMonth": 562,
-    "timeYear": 498,
+    "time": 493,
+    "timeDay": 704,
+    "timeWeek": 524,
+    "timeMonth": 541,
+    "timeYear": 499,
     "dailyMinutesDown": {
-      "2025-03-03": 1228,
+      "2025-03-04": 83,
+      "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -375,8 +375,7 @@
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
-      "2024-03-05": 1440,
-      "2024-03-04": 1440
+      "2024-03-05": 1440
     }
   }
 ]
