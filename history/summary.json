@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.46%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.17%",
     "time": 1449,
-    "timeDay": 1240,
-    "timeWeek": 1427,
-    "timeMonth": 1382,
+    "timeDay": 1285,
+    "timeWeek": 1349,
+    "timeMonth": 1378,
     "timeYear": 1424,
     "dailyMinutesDown": {
       "2025-03-10": 21,
@@ -58,16 +58,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.pcl-health.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "82.99%",
+    "uptime": "83.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.07%",
-    "time": 511,
-    "timeDay": 216,
-    "timeWeek": 281,
+    "uptimeYear": "68.34%",
+    "time": 509,
+    "timeDay": 170,
+    "timeWeek": 251,
     "timeMonth": 258,
-    "timeYear": 503,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2024-12-01": 631,
       "2024-10-17": 1298,
@@ -185,8 +185,7 @@
       "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
-      "2024-03-15": 1440,
-      "2024-03-14": 1440
+      "2024-03-15": 1440
     }
   },
   {
@@ -195,18 +194,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-pclhealth-prod.azurewebsites.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "79.12%",
+    "uptime": "79.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "14.52%",
+    "uptimeMonth": "11.23%",
     "uptimeYear": "55.81%",
     "time": 492,
-    "timeDay": 380,
-    "timeWeek": 500,
-    "timeMonth": 498,
-    "timeYear": 501,
+    "timeDay": 370,
+    "timeWeek": 468,
+    "timeMonth": 496,
+    "timeYear": 500,
     "dailyMinutesDown": {
-      "2025-03-13": 84,
+      "2025-03-14": 83,
+      "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
@@ -368,8 +368,7 @@
       "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
-      "2024-03-15": 1440,
-      "2024-03-14": 1440
+      "2024-03-15": 1440
     }
   }
 ]
