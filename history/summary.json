@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.16%",
     "time": 1416,
-    "timeDay": 1253,
-    "timeWeek": 1403,
-    "timeMonth": 1391,
-    "timeYear": 1400,
+    "timeDay": 1354,
+    "timeWeek": 1426,
+    "timeMonth": 1384,
+    "timeYear": 1401,
     "dailyMinutesDown": {
-      "2025-06-03": 5,
       "2025-06-01": 19,
       "2025-05-31": 40,
       "2025-05-09": 26,
@@ -63,15 +62,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.pcl-health.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "84.12%",
+    "uptime": "84.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.88%",
+    "uptimeYear": "73.11%",
     "time": 486,
-    "timeDay": 486,
-    "timeWeek": 551,
-    "timeMonth": 554,
+    "timeDay": 617,
+    "timeWeek": 569,
+    "timeMonth": 551,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2024-12-01": 631,
@@ -172,8 +171,7 @@
       "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
-      "2024-06-05": 1440,
-      "2024-06-04": 1440
+      "2024-06-05": 1440
     }
   },
   {
@@ -182,7 +180,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-pclhealth-prod.azurewebsites.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "73.86%",
+    "uptime": "73.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -190,10 +188,11 @@
     "time": 486,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 491,
-    "timeYear": 497,
+    "timeMonth": 485,
+    "timeYear": 498,
     "dailyMinutesDown": {
-      "2025-06-03": 356,
+      "2025-06-04": 103,
+      "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
@@ -419,8 +418,7 @@
       "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
-      "2024-06-05": 1440,
-      "2024-06-04": 1440
+      "2024-06-05": 1440
     }
   }
 ]
