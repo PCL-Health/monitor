@@ -8,13 +8,13 @@
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.16%",
-    "time": 1414,
-    "timeDay": 1560,
-    "timeWeek": 1359,
-    "timeMonth": 1391,
-    "timeYear": 1400,
+    "time": 1413,
+    "timeDay": 1149,
+    "timeWeek": 1340,
+    "timeMonth": 1381,
+    "timeYear": 1399,
     "dailyMinutesDown": {
       "2025-06-01": 19,
       "2025-05-31": 40,
@@ -61,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.pcl-health.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "84.19%",
+    "uptime": "84.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.48%",
+    "uptimeYear": "74.75%",
     "time": 486,
-    "timeDay": 575,
-    "timeWeek": 537,
-    "timeMonth": 552,
-    "timeYear": 474,
+    "timeDay": 429,
+    "timeWeek": 529,
+    "timeMonth": 547,
+    "timeYear": 473,
     "dailyMinutesDown": {
       "2024-12-01": 631,
       "2024-10-17": 1298,
@@ -164,8 +164,7 @@
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
-      "2024-06-11": 1440,
-      "2024-06-10": 1440
+      "2024-06-11": 1440
     }
   },
   {
@@ -174,7 +173,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-pclhealth-prod.azurewebsites.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "73.52%",
+    "uptime": "73.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -182,10 +181,11 @@
     "time": 486,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 488,
+    "timeMonth": 489,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2025-06-09": 108,
+      "2025-06-10": 104,
+      "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
@@ -411,8 +411,7 @@
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
-      "2024-06-11": 1440,
-      "2024-06-10": 1440
+      "2024-06-11": 1440
     }
   }
 ]
