@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.16%",
+    "uptimeYear": "99.19%",
     "time": 1411,
-    "timeDay": 1184,
-    "timeWeek": 1343,
-    "timeMonth": 1366,
+    "timeDay": 1723,
+    "timeWeek": 1360,
+    "timeMonth": 1372,
     "timeYear": 1396,
     "dailyMinutesDown": {
       "2025-06-01": 19,
@@ -50,8 +50,7 @@
       "2024-07-27": 16,
       "2024-06-25": 21,
       "2024-06-23": 70,
-      "2024-06-22": 222,
-      "2024-06-21": 1440
+      "2024-06-22": 222
     }
   },
   {
@@ -60,16 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.pcl-health.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "84.33%",
+    "uptime": "84.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.49%",
+    "uptimeYear": "77.76%",
     "time": 488,
-    "timeDay": 466,
-    "timeWeek": 561,
-    "timeMonth": 539,
-    "timeYear": 474,
+    "timeDay": 731,
+    "timeWeek": 563,
+    "timeMonth": 543,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2024-12-01": 631,
       "2024-10-17": 1298,
@@ -152,8 +151,7 @@
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
-      "2024-06-22": 1440,
-      "2024-06-21": 1440
+      "2024-06-22": 1440
     }
   },
   {
@@ -162,18 +160,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-pclhealth-prod.azurewebsites.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "72.87%",
+    "uptime": "72.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "38.11%",
-    "time": 487,
+    "time": 488,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 477,
+    "timeMonth": 458,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2025-06-20": 103,
+      "2025-06-21": 101,
+      "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
@@ -399,8 +398,7 @@
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
-      "2024-06-22": 1440,
-      "2024-06-21": 1440
+      "2024-06-22": 1440
     }
   }
 ]
