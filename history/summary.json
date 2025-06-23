@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.48%",
-    "time": 1409,
-    "timeDay": 994,
-    "timeWeek": 1252,
-    "timeMonth": 1338,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.49%",
+    "time": 1408,
+    "timeDay": 1231,
+    "timeWeek": 1208,
+    "timeMonth": 1337,
     "timeYear": 1393,
     "dailyMinutesDown": {
-      "2025-06-22": 5,
       "2025-06-21": 15,
       "2025-06-01": 19,
       "2025-05-31": 40,
@@ -50,8 +49,7 @@
       "2024-10-12": 16,
       "2024-09-02": 16,
       "2024-07-27": 16,
-      "2024-06-25": 21,
-      "2024-06-23": 70
+      "2024-06-25": 21
     }
   },
   {
@@ -60,15 +58,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.pcl-health.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "84.36%",
+    "uptime": "84.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.14%",
+    "uptimeYear": "78.31%",
     "time": 488,
-    "timeDay": 581,
-    "timeWeek": 576,
-    "timeMonth": 541,
+    "timeDay": 520,
+    "timeWeek": 553,
+    "timeMonth": 543,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2024-12-01": 631,
@@ -150,8 +148,7 @@
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
-      "2024-06-24": 1440,
-      "2024-06-23": 1440
+      "2024-06-24": 1440
     }
   },
   {
@@ -160,18 +157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-pclhealth-prod.azurewebsites.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "72.74%",
+    "uptime": "72.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "38.11%",
-    "time": 487,
+    "time": 488,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 416,
-    "timeYear": 500,
+    "timeMonth": 422,
+    "timeYear": 501,
     "dailyMinutesDown": {
-      "2025-06-22": 651,
+      "2025-06-23": 110,
+      "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -397,8 +395,7 @@
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
-      "2024-06-24": 1440,
-      "2024-06-23": 1440
+      "2024-06-24": 1440
     }
   }
 ]
