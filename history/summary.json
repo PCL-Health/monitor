@@ -4,19 +4,18 @@
     "url": "https://pcl-health.com",
     "icon": "https://icons.duckduckgo.com/ip3/pcl-health.com.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.49%",
     "time": 1403,
-    "timeDay": 1648,
-    "timeWeek": 1365,
-    "timeMonth": 1331,
-    "timeYear": 1390,
+    "timeDay": 1231,
+    "timeWeek": 1363,
+    "timeMonth": 1329,
+    "timeYear": 1388,
     "dailyMinutesDown": {
-      "2025-07-05": 11,
       "2025-06-30": 15,
       "2025-06-29": 17,
       "2025-06-25": 23,
@@ -61,16 +60,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.pcl-health.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "84.52%",
+    "uptime": "84.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.71%",
-    "time": 490,
-    "timeDay": 487,
-    "timeWeek": 529,
+    "uptimeYear": "81.88%",
+    "time": 489,
+    "timeDay": 485,
+    "timeWeek": 532,
     "timeMonth": 541,
-    "timeYear": 473,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2024-12-01": 631,
       "2024-10-17": 1298,
@@ -138,8 +137,7 @@
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
-      "2024-07-07": 1440,
-      "2024-07-06": 1440
+      "2024-07-07": 1440
     }
   },
   {
@@ -148,7 +146,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-pclhealth-prod.azurewebsites.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "71.99%",
+    "uptime": "71.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -159,7 +157,8 @@
     "timeMonth": 0,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2025-07-05": 686,
+      "2025-07-06": 112,
+      "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -385,8 +384,7 @@
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
-      "2024-07-07": 1440,
-      "2024-07-06": 1440
+      "2024-07-07": 1440
     }
   }
 ]
