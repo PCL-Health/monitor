@@ -8,13 +8,13 @@
     "uptime": "99.69%",
     "uptimeDay": "98.55%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.78%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.48%",
     "time": 1394,
-    "timeDay": 1350,
-    "timeWeek": 1178,
-    "timeMonth": 1310,
-    "timeYear": 1379,
+    "timeDay": 1347,
+    "timeWeek": 1224,
+    "timeMonth": 1312,
+    "timeYear": 1380,
     "dailyMinutesDown": {
       "2025-07-25": 21,
       "2025-07-11": 21,
@@ -62,16 +62,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.pcl-health.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "84.76%",
+    "uptime": "84.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.17%",
-    "time": 489,
-    "timeDay": 729,
-    "timeWeek": 512,
-    "timeMonth": 505,
-    "timeYear": 459,
+    "uptimeYear": "87.35%",
+    "time": 490,
+    "timeDay": 678,
+    "timeWeek": 539,
+    "timeMonth": 514,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2024-12-01": 631,
       "2024-10-17": 1298,
@@ -119,8 +119,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   },
   {
@@ -129,7 +128,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-pclhealth-prod.azurewebsites.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "70.88%",
+    "uptime": "70.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -138,9 +137,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 502,
+    "timeYear": 503,
     "dailyMinutesDown": {
-      "2025-07-25": 582,
+      "2025-07-26": 107,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -366,8 +366,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   }
 ]
