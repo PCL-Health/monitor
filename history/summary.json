@@ -8,13 +8,13 @@
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 1393,
-    "timeDay": 1524,
-    "timeWeek": 1403,
-    "timeMonth": 1368,
-    "timeYear": 1373,
+    "timeDay": 1239,
+    "timeWeek": 1383,
+    "timeMonth": 1365,
+    "timeYear": 1372,
     "dailyMinutesDown": {
       "2025-07-25": 21,
       "2025-07-11": 21,
@@ -61,15 +61,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.pcl-health.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "85.12%",
+    "uptime": "85.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.57%",
+    "uptimeYear": "95.85%",
     "time": 493,
-    "timeDay": 660,
-    "timeWeek": 534,
-    "timeMonth": 580,
+    "timeDay": 405,
+    "timeWeek": 529,
+    "timeMonth": 571,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2024-12-01": 631,
@@ -87,8 +87,7 @@
       "2024-08-30": 1189,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
-      "2024-08-27": 1440,
-      "2024-08-26": 1440
+      "2024-08-27": 1440
     }
   },
   {
@@ -97,7 +96,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-pclhealth-prod.azurewebsites.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "69.23%",
+    "uptime": "69.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -108,7 +107,8 @@
     "timeMonth": 0,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-08-25": 102,
+      "2025-08-26": 99,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -334,8 +334,7 @@
       "2024-08-30": 877,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
-      "2024-08-27": 1440,
-      "2024-08-26": 1440
+      "2024-08-27": 1440
     }
   }
 ]
