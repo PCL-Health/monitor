@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
     "time": 1349,
-    "timeDay": 1135,
-    "timeWeek": 1199,
-    "timeMonth": 1218,
-    "timeYear": 1348,
+    "timeDay": 1492,
+    "timeWeek": 1321,
+    "timeMonth": 1225,
+    "timeYear": 1349,
     "dailyMinutesDown": {
       "2025-06-25": 23,
       "2025-06-29": 17,
@@ -44,11 +44,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
-    "time": 537,
-    "timeDay": 417,
-    "timeWeek": 509,
-    "timeMonth": 542,
-    "timeYear": 589,
+    "time": 538,
+    "timeDay": 677,
+    "timeWeek": 515,
+    "timeMonth": 552,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2026-06-07": 72
     }
@@ -59,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-pclhealth-prod.azurewebsites.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "56.38%",
+    "uptime": "56.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 480,
+    "time": 481,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-22": 261,
+      "2026-06-23": 219,
+      "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
@@ -433,8 +434,7 @@
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
-      "2025-06-24": 1440,
-      "2025-06-23": 1440
+      "2025-06-24": 1440
     }
   }
 ]
