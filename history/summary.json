@@ -6,14 +6,14 @@
     "slug": "website",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "80.77%",
-    "uptimeWeek": "78.51%",
-    "uptimeMonth": "91.99%",
+    "uptimeDay": "80.80%",
+    "uptimeWeek": "78.34%",
+    "uptimeMonth": "91.95%",
     "uptimeYear": "98.77%",
     "time": 1291,
     "timeDay": 1063,
     "timeWeek": 972,
-    "timeMonth": 1018,
+    "timeMonth": 1022,
     "timeYear": 1275,
     "dailyMinutesDown": {
       "2025-08-27": 20,
@@ -41,7 +41,7 @@
       "2026-08-12": 279,
       "2026-08-13": 324,
       "2026-08-14": 323,
-      "2026-08-15": 182
+      "2026-08-15": 199
     }
   },
   {
@@ -81,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-15": 722,
+      "2026-08-15": 739,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
