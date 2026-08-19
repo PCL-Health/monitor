@@ -4,16 +4,16 @@
     "url": "https://pcl-health.com",
     "icon": "https://icons.duckduckgo.com/ip3/pcl-health.com.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "93.41%",
-    "uptimeWeek": "82.79%",
-    "uptimeMonth": "90.17%",
-    "uptimeYear": "98.62%",
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "91.14%",
+    "uptimeWeek": "82.47%",
+    "uptimeMonth": "90.10%",
+    "uptimeYear": "98.61%",
     "time": 1281,
-    "timeDay": 1516,
-    "timeWeek": 1140,
-    "timeMonth": 1071,
+    "timeDay": 1503,
+    "timeWeek": 1147,
+    "timeMonth": 1075,
     "timeYear": 1269,
     "dailyMinutesDown": {
       "2025-08-27": 20,
@@ -45,7 +45,7 @@
       "2026-08-16": 325,
       "2026-08-17": 189,
       "2026-08-18": 118,
-      "2026-08-19": 35
+      "2026-08-19": 68
     }
   },
   {
@@ -85,7 +85,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 849,
+      "2026-08-19": 882,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
